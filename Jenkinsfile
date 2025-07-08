@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone') {
             steps {
-                git 'https://github.com/yourusername/golang-app.git'
+                git 'https://github.com/1si19is064/golang-app.git'
             }
         }
 
